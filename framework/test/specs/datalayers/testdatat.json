@@ -1,0 +1,25 @@
+{
+"homepagesearch":{
+    "inputsearch": "Google Cloud Platform Pricing Calculator",
+    "asearch": "Google Cloud Pricing Calculator",
+    "homeure": "https://cloud.google.com/"
+},
+"calckpage":{
+    "url": "https://cloud.google.com/products/calculator",
+    "os": "Free: Debian, CentOS, CoreOS, Ubuntu, or other User Provided OS",
+    "pm": "Regular",
+    "sr": "N1",
+    "mtype": "n1-standard-8 (vCPUs: 8, RAM: 30GB)",
+    "gpu": "Add GPUs",
+    "gtype": "NVIDIA Tesla V100",
+    "gtyperez": "NVIDIA Tesla P100",
+    "ssd": "2x375 GB"
+},
+"tbase":{
+    "reg": "Regular",
+    "loc": "Frankfurt",
+    "ssd": "2x375",
+    "standard": "n1-standard-8",
+     "term": "1 Year"
+}
+}
